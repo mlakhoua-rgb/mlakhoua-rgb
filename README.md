@@ -13,7 +13,7 @@
 
 ### 🤖 AI-Augmented Leadership
 
-I orchestrate AI agents (Manus AI, Claude, Gemini, ChatGPT, Perplexity) as executive productivity multipliers, achieving 75% reduction in technical review time while maintaining human ownership of production environments. This isn't about AI replacing humans—it's about leaders using AI to scale their impact across global teams.
+I orchestrate AI agents (Claude, Gemini, ChatGPT, Perplexity) as executive productivity multipliers, achieving 75% reduction in technical review time while maintaining human ownership of production environments. This isn't about AI replacing humans—it's about leaders using AI to scale their impact across global teams.
 
 ### 🏗️ Featured Leadership Domains
 
@@ -34,7 +34,7 @@ I orchestrate AI agents (Manus AI, Claude, Gemini, ChatGPT, Perplexity) as execu
 
 **DevOps & SRE:** CI/CD Pipelines, Infrastructure as Code (Terraform, Ansible), Kubernetes, Docker, Site Reliability Engineering, Datadog, Prometheus, Grafana, Incident Management
 
-**AI & Automation:** Agentic AI (ChatGPT, Claude, Gemini, Manus AI), LLM Integration, Automation Workflows, AI Governance
+**AI & Automation:** Agentic AI (ChatGPT, Claude, Gemini), LLM Integration, Automation Workflows, AI Governance
 
 **Compliance & Security:** ISO 27001, SOC 2, NIST 800-53, GDPR, CCPA, HIPAA, GxP, Cloud Security, Risk Management
 
