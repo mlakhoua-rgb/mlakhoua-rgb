@@ -15,15 +15,16 @@
 
 I orchestrate AI agents (Manus AI, Claude, Gemini, ChatGPT, Perplexity) as executive productivity multipliers, achieving 75% reduction in technical review time while maintaining human ownership of production environments. This isn't about AI replacing humans—it's about leaders using AI to scale their impact across global teams.
 
-**[→ Explore AI-Augmented Leadership Framework](https://github.com/mlakhoua-rgb/ai-augmented-leadership)**
-
 ### 🏗️ Featured Leadership Domains
 
 **[Executive Tech Leadership](https://github.com/mlakhoua-rgb/executive-tech-leadership)** - Leadership philosophy, frameworks, and transformation case studies  
+**[AI-Augmented Leadership](https://github.com/mlakhoua-rgb/ai-augmented-leadership)** - How executive leaders orchestrate AI agents to scale impact  
 **[Platform Operations at Scale](https://github.com/mlakhoua-rgb/platform-operations-at-scale)** - Managing 144 engineers, 24 squads, multi-cloud infrastructure  
 **[FinOps Executive Toolkit](https://github.com/mlakhoua-rgb/finops-executive-toolkit)** - Cost optimization, vendor negotiation, resource management  
 **[Digital Transformation Playbooks](https://github.com/mlakhoua-rgb/digital-transformation-playbooks)** - NATO, EPO, The Sandbox transformation stories  
 **[Compliance & Governance](https://github.com/mlakhoua-rgb/compliance-governance-framework)** - ISO 27001, SOC 2, GDPR, HIPAA, NIST 800-53 frameworks  
+**[Infrastructure Excellence](https://github.com/mlakhoua-rgb/infrastructure-excellence)** - Production-ready templates, modules, and best practices  
+**[Web3 Platform Operations](https://github.com/mlakhoua-rgb/web3-platform-operations)** - Scaling Web3 infrastructure for 8M+ users
 
 ### 📊 Technical Leadership Expertise
 
@@ -65,3 +66,5 @@ I orchestrate AI agents (Manus AI, Claude, Gemini, ChatGPT, Perplexity) as execu
 ---
 
 *This portfolio demonstrates how executive technology leaders use AI agents, strategic frameworks, and operational excellence to deliver measurable business outcomes at scale.*
+
+> 🚧 **Portfolio Status:** Active development - New content added regularly. Some sections marked "Under Construction" are being populated with detailed case studies, frameworks, and technical artifacts.
