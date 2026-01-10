@@ -1,70 +1,53 @@
-# Mohamed Ben Lakhoua
-## Executive Technology Leader | AI-Augmented Infrastructure & Platform Operations
+# Executive Technology Leadership
 
-> Driving P&L performance (€13M, 40% EBIT), global team leadership (144 engineers across 24 squads), and 100% client retention over 14 years through strategic platform operations, AI-augmented workflows, and mission-critical digital transformations.
+Platform Engineering & Cloud Operations leader sharing frameworks, playbooks, and best practices for scaling engineering organizations with AI-augmented approaches.
 
-### 🎯 Leadership Impact
+## 🎯 What You'll Find Here
 
-- **P&L Management:** €13M revenue, 40% EBIT optimization, 100% client retention over 14 years
-- **Team Leadership:** Scaled from 1 to 144 engineers across 24 international squads in 5 countries
-- **Operational Excellence:** 99.99% SLA, 20 deployments/day, Elite DORA performance metrics
-- **Cost Optimization:** $250K annual savings via FinOps on $3M infrastructure budget
-- **Digital Transformation:** NATO, European Patent Office, The Sandbox (Web3 metaverse, 8M+ users)
+This portfolio contains **generic frameworks and best practices** for executive technology leadership, focusing on:
 
-### 🤖 AI-Augmented Leadership
+- **Platform Engineering Frameworks** - Building internal developer platforms that accelerate engineering velocity
+- **AI-Augmented Leadership** - Leveraging AI agents (Claude, Gemini, ChatGPT, Perplexity) for executive productivity
+- **FinOps Optimization Strategies** - Cloud cost optimization approaches and vendor negotiation frameworks
+- **SRE & Observability Patterns** - High-availability system design and incident management playbooks
+- **Digital Transformation Playbooks** - Change management frameworks for large-scale organizational transformation
+- **Automation & DevOps** - CI/CD patterns, Infrastructure as Code, and operational automation
 
-I orchestrate AI agents (Claude, Gemini, ChatGPT, Perplexity) as executive productivity multipliers, achieving 75% reduction in technical review time while maintaining human ownership of production environments. This isn't about AI replacing humans—it's about leaders using AI to scale their impact across global teams.
+## 🚀 Featured Leadership Domains
 
-### 🏗️ Featured Leadership Domains
+1. [**Executive Tech Leadership**](https://github.com/mlakhoua-rgb/executive-tech-leadership) - Comprehensive leadership frameworks and strategic playbooks
+2. [**AI-Augmented Leadership**](https://github.com/mlakhoua-rgb/ai-augmented-leadership) - How to orchestrate AI agents to scale executive impact
+3. [**Platform Operations at Scale**](https://github.com/mlakhoua-rgb/platform-operations-at-scale) - Patterns for managing large engineering organizations
+4. [**FinOps Executive Toolkit**](https://github.com/mlakhoua-rgb/finops-executive-toolkit) - Strategic cost optimization frameworks
+5. [**Digital Transformation Playbooks**](https://github.com/mlakhoua-rgb/digital-transformation-playbooks) - Proven transformation frameworks for enterprises
+6. [**Compliance & Governance**](https://github.com/mlakhoua-rgb/compliance-governance-framework) - ISO 27001, SOC 2, GDPR frameworks
+7. [**Infrastructure Excellence**](https://github.com/mlakhoua-rgb/infrastructure-excellence) - Production-ready templates and modules
+8. [**Web3 Platform Operations**](https://github.com/mlakhoua-rgb/web3-platform-operations) - Blockchain infrastructure patterns
 
-**[Executive Tech Leadership](https://github.com/mlakhoua-rgb/executive-tech-leadership)** - Leadership philosophy, frameworks, and transformation case studies  
-**[AI-Augmented Leadership](https://github.com/mlakhoua-rgb/ai-augmented-leadership)** - How executive leaders orchestrate AI agents to scale impact  
-**[Platform Operations at Scale](https://github.com/mlakhoua-rgb/platform-operations-at-scale)** - Managing 144 engineers, 24 squads, multi-cloud infrastructure  
-**[FinOps Executive Toolkit](https://github.com/mlakhoua-rgb/finops-executive-toolkit)** - Cost optimization, vendor negotiation, resource management  
-**[Digital Transformation Playbooks](https://github.com/mlakhoua-rgb/digital-transformation-playbooks)** - NATO, EPO, The Sandbox transformation stories  
-**[Compliance & Governance](https://github.com/mlakhoua-rgb/compliance-governance-framework)** - ISO 27001, SOC 2, GDPR, HIPAA, NIST 800-53 frameworks  
-**[Infrastructure Excellence](https://github.com/mlakhoua-rgb/infrastructure-excellence)** - Production-ready templates, modules, and best practices  
-**[Web3 Platform Operations](https://github.com/mlakhoua-rgb/web3-platform-operations)** - Scaling Web3 infrastructure for 8M+ users
+## 💡 Focus Areas
 
-### 📊 Technical Leadership Expertise
+- **Platform-as-a-Product** - Treating internal platforms as products with clear value propositions
+- **Developer Experience (DevEx)** - Optimizing engineering productivity and satisfaction
+- **Elite DORA Performance** - Achieving high deployment frequency, low lead time, and minimal change failure rate
+- **Multi-Cloud Architecture** - AWS, Azure, and hybrid cloud patterns
+- **Compliance & Security** - ISO 27001, SOC 2, NIST, GDPR frameworks
 
-**Leadership & Strategy:** P&L Management (€13M), EBIT Optimization, Global Team Leadership, Strategic Planning, Operational Excellence, Vendor Negotiations, ITIL v4, Agile
+## 📋 Content Philosophy
 
-**Cloud & Infrastructure:** AWS, Azure, Multi-cloud Strategy, Cloud-Native Architecture, High Availability (99.99% SLA), Disaster Recovery, Tier 3/4 Datacenters
+> **Disclaimer:** These repositories contain examples of common industry challenges and their optimal suggested solutions, preserving confidentiality by not publishing internal technical stacks or proprietary information.
 
-**DevOps & SRE:** CI/CD Pipelines, Infrastructure as Code (Terraform, Ansible), Kubernetes, Docker, Site Reliability Engineering, Datadog, Prometheus, Grafana, Incident Management
+All content is:
+- ✅ **Generic & Reusable** - Frameworks applicable to any organization
+- ✅ **Best Practices** - Industry-standard approaches, not specific implementations
+- ✅ **Educational** - Designed to help others learn and apply
+- ❌ **Not Company-Specific** - No proprietary implementations or confidential details
 
-**AI & Automation:** Agentic AI (ChatGPT, Claude, Gemini), LLM Integration, Automation Workflows, AI Governance
+## 🔗 Connect
 
-**Compliance & Security:** ISO 27001, SOC 2, NIST 800-53, GDPR, CCPA, HIPAA, GxP, Cloud Security, Risk Management
-
-**FinOps:** Cloud Spend Management, Cost Optimization, Budget Management, Resource Optimization, Vendor Negotiations
-
-**Platforms:** Web3/Blockchain, E-commerce, Digital Portals, e-Government, AI/ML Workloads
-
-### 🎓 Continuous Learning
-
-**Recent Certifications (2024-2025):**
-- AI Infrastructure & Ops (NVIDIA, 2025)
-- Generative AI Leadership (Vanderbilt, 2024)
-- Terraform AWS EC2 (2024)
-- Jenkins Automation (2024)
-- AI For Everyone (Deeplearning.ai, 2024)
-
-### 🌍 Global Experience
-
-**Languages:** French (Fluent), English (Fluent), Arabic (Native), German (Beginner)  
-**Locations:** France, Germany, UAE, Qatar, Tunisia  
-**Industries:** Web3/Blockchain, Government, Healthcare, Finance, Technology
-
-### 📫 Connect
-
-- **LinkedIn:** [linkedin.com/in/benlakhoua](https://linkedin.com/in/benlakhoua)
-- **Email:** mo@metafive.one
+- **LinkedIn:** [in/benlakhoua](https://linkedin.com/in/benlakhoua)
 - **Location:** Paris, France
+- **Focus:** Platform Engineering, AI-Augmented Leadership, FinOps, Digital Transformation
 
 ---
 
-*This portfolio demonstrates how executive technology leaders use AI agents, strategic frameworks, and operational excellence to deliver measurable business outcomes at scale.*
-
-> 🚧 **Portfolio Status:** Active development - New content added regularly. Some sections marked "Under Construction" are being populated with detailed case studies, frameworks, and technical artifacts.
+*Active development - New frameworks and playbooks added regularly.*
