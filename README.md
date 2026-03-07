@@ -2,7 +2,7 @@
 
 **Engineering leader bridging strategic vision with hands-on technical execution.**
 
-30 years of international experience spanning Fortune 500s, government institutions, and Web3 ecosystems. Currently exploring VP/Director opportunities and fractional CTO consulting while demonstrating modern AI-augmented development practices.
+15+ years of international experience spanning Fortune 500s, government institutions, and Web3 ecosystems. Currently exploring VP/Director opportunities and fractional CTO consulting while demonstrating modern AI-augmented development practices.
 
 ---
 
