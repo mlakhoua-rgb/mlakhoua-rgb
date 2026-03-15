@@ -1,4 +1,4 @@
-# Mohamed Ben Lakhoua | AI Transformation Leader & Adoption Architect
+# Ben Lakhoua | AI Transformation Leader & Adoption Architect
 
 **AI Adoption Architect | Copilot Transformation Consultant | Change Management Leader**
 
