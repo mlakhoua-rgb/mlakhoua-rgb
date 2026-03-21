@@ -1,58 +1,46 @@
-# Ben Lakhoua | AI Transformation Leader & Adoption Architect
+# Mohamed Ben Lakhoua
 
-**AI Adoption Architect | Copilot Transformation Consultant | Change Management Leader**
+**CTO · VP Engineering · Director of Platform & Infrastructure**
 
-Leading the human side of technology change for over 25 years. I specialize in bridging strategic vision with hands-on AI adoption, transforming how organizations leverage different AI solutions to drive measurable business outcomes. 
+30 years building and running mission-critical infrastructure at scale — from Abu Dhabi e-Government (50+ ministries, Tier-4 sovereign platforms) to The Sandbox / Animoca Brands (8M+ users, DORA Elite, 20+ daily production deployments).
 
-Currently available for freelance missions, fractional leadership, and consulting roles in AI Transformation and Change Management or a permanent position if needed.
-
----
-
-### 🚀 Value Proposition
-
-I do not just deploy technology; I ensure it is adopted. By combining deep technical credibility (AI, DevOps, Platform Engineering, Cloud) with structured change management frameworks (ADKAR, Kotter), I help companies navigate the complex cultural shifts required for successful AI integration.
-
-- **🤖 AI & Copilot Adoption:** Designing persona-based readiness assessments, prompt pattern labs, and 30-day activation plans for Microsoft M365 and GitHub Copilot.
-- **👥 Cultural Transformation:** Track record of coaching 5,000+ government employees and evangelizing AI/DevOps practices across 24 international squads.
-- **⚙️ Operational Excellence:** Elite DORA performance, 99.99% SLAs, and FinOps governance ($250K+ annual savings) achieved through behavior change and champion networks.
-- **🛡️ Responsible AI & Governance:** Embedding Microsoft Responsible AI principles, compliance (ISO 27001), and safe-prompting guidelines into corporate culture.
+I use this space to publish production-ready infrastructure tooling built with AI-augmented engineering — where AI accelerates delivery and humans govern every decision.
 
 ---
 
-### 💡 Impact Highlights
+## What I ship here
 
-- **The Sandbox (Web3/Gaming):** Evangelized GitHub Copilot and DORA Elite standards across 24 international squads. Reduced MTTR by 60% and time-to-market by 50%.
-- **Metafive.One (Consulting):** Delivering AI implementation roadmaps, Copilot readiness assessments, and use-case engineering (RICE) for enterprises.
-- **init AG (EU/Middle East):** Built a 16-member Cloud Ops unit from scratch (40% EBIT) and led operational excellence transformations for 50+ UAE government institutions.
-- **Qatar Government:** Founded one of the Gulf’s first Microsoft e-Learning academies, training 5,000+ employees on Microsoft platforms.
+Each repo is a standalone, deployable tool in the **Cloud · DevOps · FinOps · Security** space.
 
----
-
-### 🛠️ Core Competencies
-
-- **Change Management:** Prosci ADKAR, Kotter, Sponsor Roadmaps, Persona-based Training, Resistance Management.
-- **AI & Enablement:** Microsoft M365 Copilot, GitHub Copilot, Prompt Engineering, AI Assistance Score, Viva Insights.
-- **Platform & DevOps:** Azure, AWS, Kubernetes, Terraform, DevSecOps, SRE, ITIL v4, FinOps.
-- **Consulting:** Executive Facilitation, Value Realization, KPI Dashboards, ROI Modeling.
+| Repo | What it does |
+|---|---|
+| [aws-finops-cost-optimizer](https://github.com/mlakhoua-rgb/aws-finops-cost-optimizer) | AWS cost analysis, EC2 right-sizing (with real CloudWatch Agent memory metrics), Lambda auto-tagging. CI/CD + 19 unit tests. |
+| [aws-monitoring-observability-stack](https://github.com/mlakhoua-rgb/aws-monitoring-observability-stack) | Production-grade Prometheus + Grafana + Alertmanager stack on AWS. EC2 service discovery, SLO-based alerting, Terraform modules. CI validates config on every push. |
 
 ---
 
-### 📂 Featured AI-Augmented Engineering (Portfolio)
+## Career highlights
 
-*The repositories below demonstrate my hands-on technical credibility. I believe a true Transformation Leader must deeply understand the technology they are evangelizing. These projects showcase how I orchestrate AI agents for infrastructure, FinOps, and development.*
-
-1. **[AI-Augmented FinOps Toolkit]** - Production-ready toolkit demonstrating strategic cost management, automated optimization, and AI-assisted development (Python, AWS, Terraform).
-2. **[Platform Engineering & DORA Metrics]** - Frameworks for scaling engineering organizations and optimizing DORA metrics.
-3. **[AI-Assisted Web3 dApp]** - Demonstrating accelerated React/TypeScript development utilizing AI while maintaining rigorous blockchain security.
-4. **[Multi-Cloud Control Plane]** - Production-ready IaC showcasing how leaders orchestrate AI agents for infrastructure development with strict governance.
+- **The Sandbox / Animoca Brands** — Global Director, Platform Engineering & Cloud Operations. Led 25 engineers across 5 squads. Monthly releases → 20+ daily deployments. 99.99% uptime. $250K–$750K annual FinOps savings. MTTR under 15 minutes.
+- **init AG (Berlin + Abu Dhabi)** — Head of Platform Operations. €13M P&L, 60+ enterprise contracts. 14 consecutive years of 100% audit compliance (ISO 27001, ISO 22301, BSI IT-Grundschutz) across NATO, European Patent Office, Stuttgart Stock Exchange.
+- **Abu Dhabi e-Government** — Built and operated Tier-4 sovereign platforms connecting 50+ ministries and banks. Led 144-person delivery organisation across UAE, India, Germany, and Romania.
 
 ---
 
-### 📬 Let's Connect
+## Stack
 
-Looking to accelerate your organization's AI adoption or streamline your engineering culture? Let's talk.
+```
+Cloud       AWS · Azure · GCP · Multi-cloud
+Platform    Kubernetes · OpenShift · Docker · Terraform · GitOps
+Observability  Prometheus · Grafana · Datadog · CloudWatch
+Practices   SRE · FinOps · DevSecOps · DORA · Zero-Trust
+Compliance  ISO 27001 · ISO 22301 · SOC 2 · GDPR · BSI IT-Grundschutz
+```
 
-- 🌐 Professional Profile: [metafive.one](https://metafive.one)
-- 💼 LinkedIn: [in/benlakhoua](https://linkedin.com/in/benlakhoua)
-- 📧 Email: [mo@metafive.one](mailto:mo@metafive.one)
-- 📝 Technical Blog: [metafive.one/blog](https://www.metafive.one/blog)
+---
+
+## Currently
+
+Fractional CTO at [Metafive](https://metafive.ai) — advising executive teams on AI readiness, cloud architecture, and cost governance. Open to senior permanent roles in Platform Engineering, Infrastructure, or CTO capacity.
+
+📧 [mo@metafive.ai](mailto:mo@metafive.ai) · 💼 [linkedin.com/in/benlakhoua](https://linkedin.com/in/benlakhoua) · 🌐 [metafive.ai](https://metafive.ai)
