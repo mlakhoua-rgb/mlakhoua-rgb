@@ -39,6 +39,17 @@ Compliance  ISO 27001 · ISO 22301 · SOC 2 · GDPR · BSI IT-Grundschutz
 
 ---
 
+## Private & closed-source work
+
+The public repos here are demonstrations. Most of my active engineering work is closed-source, including:
+
+- **AI-augmented trading system** — production-grade ML pipeline for systematic trading across multiple instruments. 54K+ LOC, 380+ commits, full CI/CD, circuit breakers, live retraining. Built and iterated with AI under strict human governance.
+- **Client infrastructure projects** — architecture and delivery work under NDA for regulated-sector clients.
+
+If you want to see more, the best way is a conversation.
+
+---
+
 ## Currently
 
 Fractional CTO at [Metafive](https://metafive.ai) — advising executive teams on AI readiness, cloud architecture, and cost governance. Open to senior permanent roles in Platform Engineering, Infrastructure, or CTO capacity.
