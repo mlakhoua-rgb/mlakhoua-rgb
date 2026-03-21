@@ -4,7 +4,7 @@
 
 30 years building and running mission-critical infrastructure at scale — from Abu Dhabi e-Government (50+ ministries, Tier-4 sovereign platforms) to The Sandbox / Animoca Brands (8M+ users, DORA Elite, 20+ daily production deployments).
 
-I use this space to publish production-ready infrastructure tooling built with AI-augmented engineering — where AI accelerates delivery and humans govern every decision.
+The repos here are **intentional demos** — self-contained tools that illustrate how I approach AI-augmented engineering: AI accelerates delivery, humans govern every decision. They are not my primary work, but they are representative of how I build.
 
 ---
 
