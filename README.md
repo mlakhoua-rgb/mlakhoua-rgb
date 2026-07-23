@@ -112,10 +112,10 @@ These repositories are self-contained demonstrations. Most of my current enginee
 ## Technology
 
 ```text
-AI Engineering   Agentic systems · LLM integration · ML pipelines · MCP
-AI Governance    EU AI Act · Human oversight · Auditability · Risk controls
-AI Reliability   SRE · SLO/SLI · Circuit breakers · Incident response
-AI Security      Zero Trust · DevSecOps · Security by Design · Threat modelling
+AI & Cloud Engineering   Agentic systems · LLM integration · ML pipelines · MCP
+AI & Cloud Governance    EU AI Act · Human oversight · Auditability · Risk controls
+AI & Cloud Reliability   SRE · SLO/SLI · Circuit breakers · Incident response
+AI & Cloud Security      Zero Trust · DevSecOps · Security by Design · Threat modelling
 Cloud            AWS · Azure · Multi-cloud · Sovereign cloud
 Platform         Kubernetes · OpenShift · Docker · Terraform · GitOps
 Observability    Prometheus · Grafana · Datadog · CloudWatch
@@ -135,7 +135,7 @@ The system includes:
 * branch-protected CI/CD and change-validation gates
 * fail-closed configuration controls
 * decision and audit logging
-* L1/L2/L3 AI review and escalation
+* L1/L2/L3/L4/L5 AI review and escalation
 * circuit breakers and operational risk controls
 * Prometheus-based observability
 * event-driven microservices
@@ -147,23 +147,23 @@ The purpose of this work is not to showcase a business domain. It is to demonstr
 
 ## Career direction
 
-I am focused exclusively on senior roles involving:
+I am focused on senior roles involving:
 
-* AI Reliability Engineering
-* AI Security Engineering
-* AI Governance and EU AI Act readiness
-* Sovereign AI architecture
-* AI Platform Engineering
-* AI systems for regulated and public-sector environments
+* AI/Cloud Reliability Engineering
+* AI/Cloud Security Engineering
+* AI/Cloud Governance and EU AI Act readiness
+* Sovereign AI/Cloud architecture
+* AI/Cloud Platform Engineering
+* AI/Cloud systems for regulated and public-sector environments
 
 ---
 
 ## Contact
 
 **Mohamed Ben Lakhoua**
-AI Reliability · Security · Compliance
-Sovereign AI | EU AI Act | ISO 27001/22301
+AI/Cloud Reliability · Security · Compliance
+Sovereign AI | EU AI Act | ISO 27001/22301/ITIL
 
-[mohamed@metafive.ai](mailto:mohamed@metafive.ai)
+[mo@metafive.ai](mailto:mo@metafive.ai)
 [linkedin.com/in/benlakhoua](https://linkedin.com/in/benlakhoua)
 [metafive.ai](https://metafive.ai)
