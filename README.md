@@ -1,6 +1,6 @@
 # Mohamed Ben Lakhoua
 
-**AI Reliability · Security · Compliance**
+**AI & Cloud Reliability · Security · Compliance**
 **Sovereign AI · EU AI Act · ISO 27001/22301**
 
 I build and operate secure, reliable, and governable AI systems for regulated and mission-critical environments.
