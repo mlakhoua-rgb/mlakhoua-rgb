@@ -32,10 +32,11 @@ These repositories are self-contained demonstrations. Most of my current enginee
 
 ## Public projects
 
-| Repository                                                                                               | What it demonstrates                                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [aws-finops-cost-optimizer](https://github.com/mlakhoua-rgb/aws-finops-cost-optimizer)                   | AWS cost analysis, EC2 right-sizing using CloudWatch Agent memory metrics, automated tagging, CI/CD controls, and tested infrastructure automation.                                     |
-| [aws-monitoring-observability-stack](https://github.com/mlakhoua-rgb/aws-monitoring-observability-stack) | Production-grade Prometheus, Grafana, and Alertmanager architecture on AWS, including service discovery, SLO-based alerting, Terraform modules, and automated configuration validation. |
+| Repository                                                                                                     | What it demonstrates                                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ai-governance-platform-blueprint](https://github.com/mlakhoua-rgb/ai-governance-platform-blueprint)           | Reference architecture for AI-governed engineering of mission-critical financial platforms: L1–L5 tiered human authority, GenAI coding/testing validation gates, ML forecasting governance, fail-closed patterns, EU AI Act / ISO 27001 compliance mapping. |
+| [aws-finops-cost-optimizer](https://github.com/mlakhoua-rgb/aws-finops-cost-optimizer)                         | AWS cost analysis, EC2 right-sizing using CloudWatch Agent memory metrics, automated tagging, CI/CD controls, and tested infrastructure automation.                                     |
+| [aws-monitoring-observability-stack](https://github.com/mlakhoua-rgb/aws-monitoring-observability-stack)       | Production-grade Prometheus, Grafana, and Alertmanager architecture on AWS, including service discovery, SLO-based alerting, Terraform modules, and automated configuration validation. |
 
 ---
 
@@ -159,6 +160,8 @@ The system includes:
 * ML pipeline validation and controlled promotion
 
 The purpose of this work is not to showcase a business domain. It is to demonstrate how autonomous and AI-assisted systems can be engineered with rigorous human governance, operational reliability, and compliance controls.
+
+📘 **The governance architecture behind this work is published as a sanitized public blueprint: [ai-governance-platform-blueprint](https://github.com/mlakhoua-rgb/ai-governance-platform-blueprint)** — the L1–L5 review model, validation gates, ML governance, fail-closed patterns, and compliance mapping, with all product IP withheld.
 
 ---
 
