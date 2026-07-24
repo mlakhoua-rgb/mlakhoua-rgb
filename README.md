@@ -1,5 +1,7 @@
 # Mohamed Ben Lakhoua
 
+**Chief Technology Officer / VP / Director of Engineering — currently Fractional CTO, AI & Cloud Infrastructure at [Metafive.One](https://metafive.ai)**
+
 **AI & Cloud Reliability · Security · Compliance**
 **Sovereign AI · EU AI Act · ISO 27001/22301**
 
@@ -7,7 +9,9 @@ I build and operate secure, reliable, and governable AI systems for regulated an
 
 My background spans 30 years of engineering, infrastructure, security, and operational leadership — from sovereign government platforms serving 50+ ministries to global cloud platforms supporting millions of users.
 
-Today, my focus is the productionisation of AI: designing systems that are observable, fail-closed, auditable, resilient, and compliant by design.
+Today, my focus is the productionisation of AI: designing systems that are observable, fail-closed, auditable, resilient, and compliant by design. At Metafive.One I advise executive teams on AI readiness, cloud architecture, and FinOps governance in regulated environments.
+
+Languages: French (fluent) · English (fluent, executive/negotiation level) · Arabic (native) · German (basics)
 
 ---
 
@@ -80,32 +84,45 @@ These repositories are self-contained demonstrations. Most of my current enginee
 
 ### The Sandbox / Animoca Brands
 
-**Global Director, Platform Engineering & Cloud Operations**
+**Global Director, Platform Engineering & Cloud Operations** (2022–2025)
 
-* Owned reliability for a global platform serving more than 8 million users
-* Maintained 99.99% production availability
-* Reduced MTTR to under 15 minutes
-* Increased delivery performance to more than 20 production deployments per day
-* Delivered annual FinOps savings of approximately $250K–$750K
+* Owned reliability for a global Web3 platform serving more than 8 million users and 400+ brand partners, reporting to the CTO
+* Maintained 99.99% production availability across 6M+ database operations per second
+* DORA Elite transformation: from monthly releases to 20+ daily production deployments, with zero P1 incidents
+* Reduced MTTR to under 15 minutes as final P1/P2 escalation authority; built blameless post-mortem culture
+* Managed a $3M infrastructure portfolio; delivered annual FinOps savings of approximately $250K–$750K
 * Passed three consecutive AWS Well-Architected Reviews with no critical findings
 
 ### ]init[ — Germany and Abu Dhabi
 
-**Head of Platform & Cloud Operations**
+**Head of Platform Operations & Cloud Delivery** (2018–2022, Berlin) · **Director, Regional Operations & Platform Delivery** (2008–2018, Abu Dhabi)
 
-* Operated sovereign and regulated platforms for German federal agencies, NATO, the European Patent Office, and financial-sector organisations
-* Managed a €13M P&L and more than 60 enterprise contracts
-* Sustained 14 consecutive years of audit compliance with no critical findings
-* Worked across ISO 27001, ISO 22301, GDPR, NIST, and BSI IT-Grundschutz environments
+* Operated sovereign and regulated platforms for German federal agencies, NATO, the European Patent Office, the Stuttgart Stock Exchange, and Heidelberg Materials
+* Managed a €13M P&L (40% EBIT) and more than 60 enterprise contracts with €4M ARR
+* Directed cloud-native transformation (OpenShift, Azure, Kubernetes) for 15+ German federal agencies under BSI IT-Grundschutz
+* Sustained 14 consecutive years of audit compliance (ISO 27001, ISO 22301, GDPR, NIST, BSI) with no critical findings
+* Built and operated Tier-4 platforms connecting 50+ ministries, agencies, and banks — 99.9% contractual SLA for six consecutive years
+* Built and led a 144-person delivery organisation across the UAE, India, Germany, and Romania
+* 14 years of technical pre-sales and proposal leadership across regulated government contracts
 
-### Abu Dhabi e-Government
+### Institute of Administrative Development — Qatar Government
 
-**Director of Infrastructure & Programme Delivery**
+**Director of Information Systems | Public Speaker & Technology Coach** (1997–2008)
 
-* Built and operated sovereign Tier-4 platforms supporting more than 50 ministries and government entities
-* Led a 144-person international delivery organisation
-* Maintained contractual availability and disaster-recovery requirements for mission-critical public-sector services
-* Delivered platforms subject to strict security, sovereignty, and audit controls
+* Trained and coached 5,000+ government employees over 10 years on technology innovation and digital transformation
+* Delivered national programmes through partnerships with Microsoft, Oracle, IBM, and Cisco, advising 10+ ministries
+* Designed and built 3 Tier-3/4 datacentres with full disaster recovery — the backbone of Qatar's early national digital services
+
+---
+
+## Education & certifications
+
+* **Master of Engineering (ICT)** — SUP'COM, Tunisia (Bac+6)
+* **MIT Sloan + CSAIL** — AI Business Strategy Executive Programme
+* **Leadership & delivery:** ITIL v4 Strategic Leader · ISO 27001 · ISO 22301 Lead Implementer
+* **AI:** Certified AI Product Manager (CAIPM)™ · Certified AI Security Expert (CAISE)™ · NVIDIA AI Operations · Generative AI for Leaders (Vanderbilt)
+* **Cloud & platform:** Kubernetes Administration · Terraform · AWS EC2 Automation · CCNA
+* **FinTech & Web3:** Certified Fintech Expert (CFTE)™ · Web3 Certified Professional (WCP)™
 
 ---
 
@@ -161,7 +178,7 @@ I am focused on senior roles involving:
 ## Contact
 
 **Mohamed Ben Lakhoua**
-AI/Cloud Reliability · Security · Compliance
+CTO / VP / Director of Engineering — AI/Cloud Reliability · Security · Compliance
 Sovereign AI | EU AI Act | ISO 27001/22301/ITIL
 
 [mo@metafive.ai](mailto:mo@metafive.ai)
