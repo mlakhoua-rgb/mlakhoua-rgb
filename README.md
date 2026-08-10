@@ -26,4 +26,4 @@ All code here is specified and directed by me, built and reviewed via agentic AI
 
 ## Contact
 
-[mo@metafive.ai](mailto:mo@metafive.ai)
+[mohamed@metafive.ai](mailto:mohamed@metafive.ai)
