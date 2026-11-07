@@ -1,6 +1,6 @@
 # Mohamed Ben Lakhoua
 
-**Fractional CTO · Platform & FinOps** — [metafive.ai](https://www.metafive.ai) · [github.com/metafive-ai](https://github.com/metafive-ai) · [linkedin.com/in/benlakhoua](https://linkedin.com/in/benlakhoua)
+**Infrastructure & Cloud Architect — Service Levels · Technology leadership (CTO / VP / Director)** — [www.metafive.ai](https://www.metafive.ai) · [linkedin.com/in/mohamed-ben-lakhoua](https://www.linkedin.com/in/mohamed-ben-lakhoua/) · [github.com/metafive-ai](https://github.com/metafive-ai)
 
 I design the architecture and govern the agents that implement it. AI accelerates delivery; humans own every merge.
 
@@ -37,4 +37,4 @@ python scripts/unused_resources.py --region eu-west-1 --output unused.json
 
 ## Contact
 
-[mo@metafive.ai](mailto:mo@metafive.ai) · [LinkedIn](https://linkedin.com/in/benlakhoua) · [metafive.ai](https://www.metafive.ai)
+[mo@metafive.ai](mailto:mo@metafive.ai) · [www.metafive.ai](https://www.metafive.ai) · [LinkedIn](https://www.linkedin.com/in/mohamed-ben-lakhoua/) · [Book a call](https://calendly.com/metafive)
